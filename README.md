@@ -1,2 +1,4 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+#python
+
+print("hi!! i'm Naresh , welcome to my knowledge")
